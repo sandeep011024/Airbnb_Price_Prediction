@@ -21,9 +21,9 @@ The goal is to build a model that helps hosts and users estimate fair prices bas
 - Visualized feature importance for better interpretability
 
 ## 📂 Files
-- `Airbnb_Price_Prediction.ipynb` → Jupyter notebook with code & analysis
+- `Airbnb_Price_Prediction.ipynb` → https://drive.google.com/file/d/1yKvwJGkl11Iej_jVl1NEVedu1NVBbxeU/view?usp=sharing
 - `README.md` → Project overview and documentation
-- `data/` → Dataset (or link to dataset)
+- `data/` → Dataset (https://docs.google.com/spreadsheets/d/132sgv3Q2-pUbxf4r3KP4aecOhcloNiw8/edit?usp=sharing&ouid=113754029464718316164&rtpof=true&sd=true))
 
 ## 📌 Future Improvements
 - Deploy the model using Streamlit for interactive price predictions
