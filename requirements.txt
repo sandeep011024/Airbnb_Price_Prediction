@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+
+scikit-learn (sklearn)
+=>
+model_selection → train_test_split, GridSearchCV
+linear_model → LinearRegression
+ensemble → RandomForestRegressor
+metrics → mean_absolute_error, r2_score, mean_squared_error
